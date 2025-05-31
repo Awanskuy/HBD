@@ -204,7 +204,7 @@
           <div class="back">📨 Terbuka</div>
         </div>
         <div class="paper" id="paper">
-          <p>Di hari yang penuh kebahagiaan ini, semoga kamu diberikan panjang umur, sehat selalu, rejeki yang lancar, dan semua yang kamu impikan cita cita kamu tercapai. 
+          <p>HBD Pitaloka Risda Pratiwi, Di hari yang penuh kebahagiaan ini, semoga kamu diberikan panjang umur, sehat selalu, rejeki yang lancar, dan semua yang kamu impikan cita cita kamu tercapai. 
         Selamat bertambah usia pacarku, semoga kedepannya kita selalu sama sama sampe takdir berkata.<br><br>
         Terima kasih sudah menjadi bagian terindah dalam hidupku. <b>I LOVE YOU SAYANGKU</b>❤️</p>
         </div>
